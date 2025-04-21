@@ -57,7 +57,6 @@ The built files will be in the `dist` directory.
 - **Redux Toolkit** - State management
 - **Redux Persist** - Local storage persistence
 - **TailwindCSS** - Utility-first CSS framework
-- **GSAP** - Animations
 - **Vite** - Build tool and development server
 
 ## Project Structure
