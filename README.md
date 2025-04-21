@@ -21,7 +21,7 @@ Task Master is an elegant, responsive task management application built with Rea
 
 ## Live Demo
 
-Check out the live demo: [Task Master App](https://taskmaster-demo.vercel.app)
+Check out the live demo: [Task Master App](https://task-master-todo.vercel.app/)
 
 ## Installation
 
@@ -85,6 +85,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - youremail@example.com
+Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - idrisiazman@gmail.com
 
 Project Link: [https://github.com/yourusername/taskmaster](https://github.com/yourusername/taskmaster)
